@@ -1,4 +1,4 @@
-# Implementation of logic gates using verilog HDL.
+# Ex - 1 Implementation of logic gates using verilog HDL.
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
