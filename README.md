@@ -103,5 +103,6 @@ endmodule
 ![image](https://github.com/sanjayy2431/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365143/3d256a37-62ca-4fda-ae7a-3f220f61d445)
 
 
-Result:
+## Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
