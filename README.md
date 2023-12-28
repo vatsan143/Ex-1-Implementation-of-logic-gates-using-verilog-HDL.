@@ -93,9 +93,13 @@ xnor (y7,a,b);
 endmodule
 
 ## Logic symbol & Truthtable:
+
+
 ![image](https://github.com/sanjayy2431/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365143/9a9b729a-0346-4df3-acca-53c03e19abc1)
 
 ## RTL realization Output: 
+
+
 ![image](https://github.com/sanjayy2431/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365143/3d256a37-62ca-4fda-ae7a-3f220f61d445)
 
 
